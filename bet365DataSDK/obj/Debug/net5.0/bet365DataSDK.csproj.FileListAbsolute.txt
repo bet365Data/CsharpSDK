@@ -1,0 +1,17 @@
+/Users/liberxue/Projects/bet365DataSDK/bet365DataSDK/bin/Debug/net5.0/bet365DataSDK.deps.json
+/Users/liberxue/Projects/bet365DataSDK/bet365DataSDK/bin/Debug/net5.0/bet365DataSDK.runtimeconfig.json
+/Users/liberxue/Projects/bet365DataSDK/bet365DataSDK/bin/Debug/net5.0/bet365DataSDK.runtimeconfig.dev.json
+/Users/liberxue/Projects/bet365DataSDK/bet365DataSDK/bin/Debug/net5.0/bet365DataSDK.dll
+/Users/liberxue/Projects/bet365DataSDK/bet365DataSDK/bin/Debug/net5.0/ref/bet365DataSDK.dll
+/Users/liberxue/Projects/bet365DataSDK/bet365DataSDK/bin/Debug/net5.0/bet365DataSDK.pdb
+/Users/liberxue/Projects/bet365DataSDK/bet365DataSDK/obj/Debug/net5.0/bet365DataSDK.csprojAssemblyReference.cache
+/Users/liberxue/Projects/bet365DataSDK/bet365DataSDK/obj/Debug/net5.0/bet365DataSDK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liberxue/Projects/bet365DataSDK/bet365DataSDK/obj/Debug/net5.0/bet365DataSDK.AssemblyInfoInputs.cache
+/Users/liberxue/Projects/bet365DataSDK/bet365DataSDK/obj/Debug/net5.0/bet365DataSDK.AssemblyInfo.cs
+/Users/liberxue/Projects/bet365DataSDK/bet365DataSDK/obj/Debug/net5.0/bet365DataSDK.csproj.CoreCompileInputs.cache
+/Users/liberxue/Projects/bet365DataSDK/bet365DataSDK/obj/Debug/net5.0/bet365DataSDK.dll
+/Users/liberxue/Projects/bet365DataSDK/bet365DataSDK/obj/Debug/net5.0/ref/bet365DataSDK.dll
+/Users/liberxue/Projects/bet365DataSDK/bet365DataSDK/obj/Debug/net5.0/bet365DataSDK.pdb
+/Users/liberxue/Projects/bet365DataSDK/bet365DataSDK/obj/Debug/net5.0/bet365DataSDK.genruntimeconfig.cache
+/Users/liberxue/Projects/bet365DataSDK/bet365DataSDK/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/liberxue/Projects/bet365DataSDK/bet365DataSDK/obj/Debug/net5.0/bet365DataSDK.csproj.CopyComplete

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/liberxue/.dotnet/store/|arch|/|tfm|",
+      "/Users/liberxue/.nuget/packages"
+    ]
+  }
+}

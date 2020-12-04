@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d0CoYp5SAm4n6T9eCSbfwC3OlB1MxJ4LV2/yfGUcQoLEymiQwM6BrDWsanFEBTC2eYR7qSBH9l8T2e3skdEkvg==",
+  "success": true,
+  "projectFilePath": "/Users/liberxue/Projects/bet365DataSDK/bet365DataSDK/bet365DataSDK.csproj",
+  "expectedPackageFiles": [
+    "/Users/liberxue/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
